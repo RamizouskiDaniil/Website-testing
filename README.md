@@ -81,3 +81,4 @@
 
 Далее приступаем, уже на основе имеющихся требований, к созданию чек-листа.
 
+https://docs.google.com/spreadsheets/d/1R4CfP9SLC7MfkSooVgBdld2kVBRX7i1YRglliVdBeGo/edit?gid=0#gid=0
